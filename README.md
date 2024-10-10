@@ -1,4 +1,4 @@
-# 📋 Analisis predictivo sobre el estado de salud en Mexico y el mundo
+# 📋 Análisis predictivo sobre el estado de salud en México y el mundo
 
 ### 🙆 Proyecto realizado por:
 - Patricio A. Villanueva Gio
